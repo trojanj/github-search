@@ -1,0 +1,22 @@
+.Profile h1 {
+  font-size: 26px;
+}
+.Profile ul {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0 0 10px;
+}
+
+.Profile ul li {
+  padding: 5px 0;
+}
+
+.Profile ul li:last-of-type {
+  padding: 5px 0 0;
+}
+
+.Profile span {
+  margin-right: 5px;
+  padding: 8px 5px;
+}
+
